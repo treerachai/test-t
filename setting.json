@@ -1,0 +1,12 @@
+{
+    "RAautoadd": true,
+    "RAautojoin": true,
+    "RAautoread": false,
+    "RAautoscan": false,
+    "RAbatas":{"on":true,"members":1},
+    "RAmessage": "TREEBOT",
+    "RAmessage1": "Welcome...",
+    "RAreadMember": {},
+    "RAblacklist": {},
+    "RAreadPoint": {}
+}
